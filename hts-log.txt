@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Apr 2024 22:48:24 at https://scb.growglory.group/?fbclid=IwZXh0bgNhZW0CMTAAAR0hnOj_NbnuuW-R3zQh-MWc2pfOYzsZQ68W36MEBoDeqRowWzXXNP1BFuY_aem_AXPk7ljn2d7VdT7eXycZqXVd94kxOMC7k9HZr0SQkxTVnCkE7JhwFMfs-px95KrdaWIlQigSHwxVe_fM8Pq9eV8h +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://scb.growglory.group/?fbclid=IwZXh0bgNhZW0CMTAAAR0hnOj_NbnuuW-R3zQh-MWc2pfOYzsZQ68W36MEBoDeqRowWzXXNP1BFuY_aem_AXPk7ljn2d7VdT7eXycZqXVd94kxOMC7k9HZr0SQkxTVnCkE7JhwFMfs-px95KrdaWIlQigSHwxVe_fM8Pq9eV8h -O1 "C:\Users\aps11\Desktop\scb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 10 links scanned, 9 files written (674629 bytes overall) [248125 bytes received at 41354 bytes/sec], 557492 bytes transferred using HTTP compression in 8 files, ratio 22%, 1.2 requests per connection
+(No errors, 0 warnings, 0 messages)
